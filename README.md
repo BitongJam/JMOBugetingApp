@@ -1,4 +1,5 @@
-# Personal Finance Tracker App
+#JMO Budgeting App
+## Personal Finance Tracker App
 
 ## Description
 This is a personal finance tracker app built with React Native and Firebase. It helps users manage their income, expenses, budgets, and debts efficiently. The app supports offline functionality using AsyncStorage.
