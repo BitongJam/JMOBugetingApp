@@ -1,4 +1,4 @@
-#JMO Budgeting App
+# JMO Budgeting App
 ## Personal Finance Tracker App
 
 ## Description
